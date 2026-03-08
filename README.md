@@ -69,10 +69,10 @@ file-encryption-tool/
 
 ## 1️⃣ Clone the repository
 ```
-git clone https://github.com/yourusername/file-encryption-tool.git
+git clone https://github.com/mantrapatil03/File-Encryption-Tool.git
 ```
 ```
-cd file-encryption-tool
+cd File-Encryption-Tool
 ```
 
 <h2 align="center"> OR </h2>
